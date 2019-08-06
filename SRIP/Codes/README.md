@@ -1,0 +1,1 @@
+1. Just open exp2/lab.html in your favorite browser
