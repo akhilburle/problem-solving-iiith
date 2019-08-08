@@ -205,13 +205,9 @@
 </head>
 
 <body>
-
-
-
-
     <div id="site_head">
         <div class="header_cont">
-
+            <!--Made the Title bar look cleaner and lighter and changed font color-->
             <div id="logo">
                 <h2>
                     <font color="white">Beauty of Numbers</font>
@@ -223,15 +219,13 @@
         </div>
     </div>
 
-
-
-
     <article id="main_content">
 
         <!--960px limit -->
         <header id="main-title">
             <!--h1>OJ ... Happily judging your solution</h1-->
         </header>
+        <!--Bootstrapped the select menu and enabled form control-->
         <div id="content">
             <div id="contentLeft">
                 <span>
@@ -243,6 +237,7 @@
 						</select>
 					</div>
 					<hr>
+					<!--Adjusted the file selector and containerized elements -->
 					<form id="file_upload_form" name="file_upload_form" method="post" enctype="multipart/form-data"
 						action="upload.php">
 						CHOOSE FILE TO LOAD:
@@ -266,6 +261,7 @@
 		</textarea>
                         </fieldset>
                     </div>
+                    <!--Bootstrapped the select menu and enabled form control-->
                     <div class="form-row">
                         <div class="col-auto">
                             <div class="paddingselectmenu">
@@ -287,6 +283,7 @@
                             </div>
                         </div>
                     </div>
+                    <!--Placed all the buttons and language selector in a grid so they maintain their places-->
             </div>
             <!--<a href="prob_desc.html?height=500&width=650" class="thickbox"><img src="images/info.jpg" height=20px width=20px></a>-->
             <input type="hidden" name="hintC" id="hintCount" value="0" />
@@ -301,6 +298,7 @@
             </div>
             <!--button  type="button" id="genHint"  value="Hint" onclick="generateHint();">Generate Hint</button -->
             <div id="hint_div">
+                <!--Placed into div for extrra compatibility-->
                 <label for="hint-menu">Hint Level: </label>
                 <select name="hintGenerate" id="hint-menu" onchange="generateHint(this)" class="form-control-xs">
 					<option value='0'>Hint Level 0</option>
