@@ -1,0 +1,207 @@
+{
+    "artciles": [{
+            "quiztitle": "Quiz for Cryptography",
+            "containers": "5"
+        },
+        {
+            "q": "What tag is used for buttons?",
+            "option": [
+                "<btn>",
+                "<button>",
+                "<b>"
+            ],
+            "answer": "<button>",
+            "description": "Button tag is used to make a button"
+        },
+        {
+            "q": " What file extension is most suitable for an animated raster graphics file?",
+            "option": [
+                "JPEG",
+                "GIF",
+                "PNG"
+            ],
+            "answer": "GIF",
+            "description": " Due to its compression abilities, it is the best for compact animated icons on a webpage."
+        },
+        {
+            "q": "Which of these tags is the generic container for flow content?",
+            "option": [
+                "<body>",
+                "<p>",
+                "<div>"
+            ],
+            "answer": "<div>",
+            "description": "The HTML Content Division element (<div>) is the generic container for flow content. It has no effect on the content or layout until styled using CSS"
+        },
+        {
+            "q": "Which of these is the correct format of mentioning multiple classes for a <div>?",
+            "option": [
+                "class1 class2",
+                "class1;class2",
+                "class1:class2"
+            ],
+            "answer": "class1 class2",
+            "description": "A div can have as many classes as you want. Just separate the classes by space."
+        },
+        {
+            "q": "Which of these tags will display a horizontal rule in a webpage?",
+            "option": [
+                "<br>",
+                "<h1>",
+                "<hr>"
+            ],
+            "answer": "<hr>",
+            "description": "In HTML 4.01, the <hr> tag represents a horizontal rule. However, the <hr> tag may still be displayed as a horizontal rule in visual browsers, but is now defined in semantic terms, rather than presentational terms."
+        },
+        {
+            "q": "Which of these is not a valid manner of representing size on a webpage?",
+            "option": [
+                "em",
+                "i",
+                "%"
+            ],
+            "answer": "i",
+            "description": "'i' is not a valid unit of size."
+        },
+        {
+            "q": " Which of these attributes is linked to the backroung color in CSS?",
+            "option": [
+                "bg",
+                "backround-color",
+                "background"
+            ],
+            "answer": "backround-color",
+            "description": ""
+        },
+        {
+            "q": "What does the <iframe> tag control?",
+            "option": [
+                "image frame",
+                "italics frame",
+                "inline frame"
+            ],
+            "answer": "inline frame",
+            "description": ""
+        },
+        {
+            "q": "Which bootstrap class can be used to segregate content in a webpage form into rows?",
+            "option": [
+                "row",
+                "formrow",
+                "form-row"
+            ],
+            "answer": "form-row",
+            "description": "This will allow for tighter and more compact layouts."
+        },
+        {
+            "q": "Which bootstrap class can be used to segregate content in a webpage form row into columns?",
+            "option": [
+                "column",
+                "form-col",
+                "col-auto"
+            ],
+            "answer": "col-auto",
+            "description": ""
+        },
+        {
+            "q": "Which of these font styling is most suitable for modern browser formats?",
+            "option": [
+                "italic",
+                "bold",
+                "strong"
+            ],
+            "answer": "strong",
+            "description": "<strong> is semantic - it describes the text it surrounds as opposed to describing how the text it surrounds should be displayed."
+        },
+        {
+            "q": "Which tag is used to create a clickable link on a webpage?",
+            "option": [
+                "<a>",
+                "<href>",
+                "<link>"
+            ],
+            "answer": "<a>",
+            "description": ""
+        },
+        {
+            "q": "Which attribute of the <a> tag allows the developer to mention the link to which the tag should redirect?",
+            "option": [
+                "link",
+                "href",
+                "ref"
+            ],
+            "answer": "href",
+            "description": ""
+        },
+        {
+            "q": "Which of these header tags displays the largest text size?",
+            "option": [
+                "h1",
+                "h2",
+                "h3"
+            ],
+            "answer": "h1",
+            "description": ""
+        },
+        {
+            "q": "Which of these terms can be uses to create a space in a line that cannot be broken by word wrap in html?",
+            "option": [
+                "&br;",
+                "&space;",
+                "&nbsp;"
+            ],
+            "answer": "&nbsp;",
+            "description": ""
+        },
+        {
+            "q": "Which of the following specifiers in CSS is used to modify the style of a tag with a class named test",
+            "option": [
+                ".test",
+                "#test",
+                "test"
+            ],
+            "answer": "test",
+            "description": ""
+        },
+        {
+            "q": "Which Bootstrap class is used to make a customm file input tag?",
+            "option": [
+                "custom-input",
+                "customfileinput",
+                "custom-file-input"
+            ],
+            "answer": "custom-file-input",
+            "description": ""
+        },
+        {
+            "q": "To use a custom Bootstrap form control group what class name must be used",
+            "option": [
+                "formcontrol",
+                "form-control",
+                "form_control"
+            ],
+            "answer": "form-control",
+            "description": ""
+        },
+        {
+            "q": "Which of the following values does the CSS 'position' attribute not take?",
+            "option": [
+                "sticky",
+                "relative",
+                "stationary"
+            ],
+            "answer": "stationary",
+            "description": ""
+        },
+        {
+            "q": "Which of these is the correct way to comment HTML code?",
+            "option": [
+                "//",
+                "/* */",
+                "<!-- -->"
+            ],
+            "answer": "<!-- -->",
+            "description": ""
+        }
+    ]
+}
